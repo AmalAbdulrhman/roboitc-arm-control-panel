@@ -3,8 +3,8 @@
 ## index.html & style.css:
   
 there 6 motors slider to control the robotic arm's base, shoulder, Elbow, wrist, gripper and two buttons: 
-1.  "save": 
-2.  "run" : it set the "ArmState" tp"" ON" along with inserting the sliders values into the database.
+1.  save 
+2.  run
 and the styling of the page, 6 sliders and buttons done in a separate file called style.css.
 
 ## script.js
