@@ -25,4 +25,4 @@ and the styling of the page, 6 sliders and buttons done in a separate file calle
 
 
 ![values](slider's_value.png)
-![DB](values_in_DB.png)
+![DB](vvalues _in_DB.png)
