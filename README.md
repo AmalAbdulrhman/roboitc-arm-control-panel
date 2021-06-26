@@ -15,7 +15,7 @@ and the styling of the page, 6 sliders and buttons done in a separate file calle
   
   this is where i add some behavior to the slider by saving the 6 slider and range value into variables to use them in functions so the value of the slider is showing to the user. 
 
-![show](shown values.png)
+![show](shown_values.png)
 
 ## connect.php
 
