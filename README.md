@@ -21,4 +21,4 @@ and the styling of the page, 6 sliders and buttons done in a separate file calle
 
 
 ![values](slider's_value.png)
-![db](DBValues.png)
+![db](DBValues.png) 
