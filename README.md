@@ -15,6 +15,7 @@ and the styling of the page, 6 sliders and buttons done in a separate file calle
   
   this is where i add some behavior to the slider by saving the 6 slider and range value into variables to use them in functions so the value of the slider is showing to the user. 
 
+![](shown values.png)
 
 ## connect.php
 
@@ -23,3 +24,5 @@ and the styling of the page, 6 sliders and buttons done in a separate file calle
   once the user click the button "save"  the "ArmState" will be "OFF" and if it is "run" the "ArmState" will be "OFF" along with in both of the buttons the values of the sliders will be inserting into the database  
 
 
+![](slider's value.png)
+![](values in DB.png)
