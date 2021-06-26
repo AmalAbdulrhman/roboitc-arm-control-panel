@@ -2,11 +2,7 @@
 
 ## index.html & style.css:
   
-there 6 motors slider to control the robotic arm's base, shoulder, Elbow, wrist, gripper and two buttons: 
-1.  save 
-2.  run
-
-
+there 6 motors slider to control the robotic arm's base, shoulder, Elbow, wrist, gripper and two buttons save and run
 and the styling of the page, 6 sliders and buttons done in a separate file called style.css.
 
 ![](interface.png)
