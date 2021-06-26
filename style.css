@@ -1,0 +1,91 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+  }
+  
+  html {
+    overflow-y: scroll;
+  }
+  
+  body {
+    background: #c1bdba;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  
+
+  #values{
+  color: white;
+  }
+  
+  .form {
+    background: rgba(19, 35, 47, 0.9);
+    padding: 80px;
+    max-width: 600px;
+    margin: 40px auto;
+    border-radius: 4px;
+    box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+  }
+  
+  
+  h1 {
+    text-align: center;
+    color: #82c4b3;
+    font-weight: 300;
+    margin: 0 0 40px;
+  }
+  
+  .field-wrap {
+    position: relative;
+  }
+  
+  
+  .button {
+    border: 0;
+    outline: none;
+    border-radius: 0;
+    padding: 10px 0;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    background: #1ab188;
+    color: #ffffff;
+    transition: all 0.5s ease;
+    -webkit-appearance: none;
+  
+  }
+  .button:hover, .button:focus {
+    background: #179b77;
+  }
+  
+  .button-block {
+    display: block;
+    width: 40%;
+    
+  }
+  .range  {
+    width: 95%;
+    height: 10px ;
+    border-radius: 120px;
+    margin: 6px;
+  }
+ 
+  #engines{
+    color: rgb(255, 255, 255);  
+    display: inline ;
+    position: relative; 
+    left: 90%; 
+  }
+  
+  #button1{
+    float: left;
+   
+  }
+  
+  #button2{
+    float: right;
+     
+  }
+  
+  
+  
+  
