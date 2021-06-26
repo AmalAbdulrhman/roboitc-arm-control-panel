@@ -24,5 +24,5 @@ and the styling of the page, 6 sliders and buttons done in a separate file calle
   once the user click the button "save"  the "ArmState" will be "OFF" and if it is "run" the "ArmState" will be "OFF" along with in both of the buttons the values of the sliders will be inserting into the database  
 
 
-![values](slider's value.png)
-![DB](values in DB.png)
+![values](slider's_value.png)
+![DB](values_in_DB.png)
