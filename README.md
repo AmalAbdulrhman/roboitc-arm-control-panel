@@ -15,7 +15,7 @@ and the styling of the page, 6 sliders and buttons done in a separate file calle
 
 ## connect.php file: 
 
-  I simply create a connection to my database "roboticArm" to store the values for 6 sliders and the state in "control_panel" table which has 7 attributes M1,M2,M3,M4,M5,M5 and ArmState. 
+  I simply create a connection to my database "roboticArm" to store the values for 6 sliders and the state in "control_panel" table which has 7 attributes M1,M2,M3,M4,M5,M6 and ArmState. 
 
   once the user click the button "save"  the "ArmState" will be "OFF" and if it is "run" the "ArmState" will be "OFF" along with in both of the buttons the values of the sliders will be inserting into the database  
 
